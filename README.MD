@@ -1,4 +1,4 @@
-# Titre du projet
+# Détection d'obstacle automatisée
 Automatisation des déplacements d'un robot grâce à un algorythme de Machine learning développé en python
 
 ## 🎯 Contexte & cahier des charges
